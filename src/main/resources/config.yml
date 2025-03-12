@@ -1,0 +1,13 @@
+# Elytra Rework
+config-ver: 1
+debug-mode: true
+# Elytra Firework Change
+firework-boost-enabled: false
+# Elytra Campfire Boost
+campfire-boost: true
+campfire-boost-amount: 1
+campfire-boost-delay: 1 #seconds
+campfire-boost-sound:
+  sound: minecraft:entity.breeze.land
+  volume: 1
+  pitch: 0.8
