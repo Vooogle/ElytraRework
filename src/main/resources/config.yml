@@ -1,13 +1,19 @@
 # Elytra Rework
-config-ver: 1
+config-ver: 2
 debug-mode: true
 # Elytra Firework Change
 firework-boost-enabled: false
 # Elytra Campfire Boost
 campfire-boost: true
-campfire-boost-amount: 1
+campfire-boost-amount: 2
+signal-campfire-boost-amount: 3
 campfire-boost-delay: 1 #seconds
 campfire-boost-sound:
   sound: minecraft:entity.breeze.land
-  volume: 1
+  volume: 5
   pitch: 0.8
+# Elytra Enchantments
+allow-mending: true
+allow-unbreaking: true
+allow-curse-of-binding: true
+allow-curse-of-vanishing: true

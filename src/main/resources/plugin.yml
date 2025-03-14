@@ -1,5 +1,5 @@
 name: ElytraRework
-version: '0.0.1'
+version: '0.1.0'
 main: org.vooogle.elytraRework.ElytraRework
 api-version: '1.21'
 load: STARTUP
